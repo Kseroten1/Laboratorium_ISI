@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a7cb4a6-b569-4598-b1af-1ccd7e8b03fd" name="Changes" comment="Lab1">
-      <change afterPath="$PROJECT_DIR$/Lab2/Zadanie1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/Zadanie2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/Zadanie3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/Zadanie4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/Zadanie5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab2/pc.csv" afterDir="false" />
+    <list default="true" id="0a7cb4a6-b569-4598-b1af-1ccd7e8b03fd" name="Changes" comment="Lab4">
+      <change afterPath="$PROJECT_DIR$/Lab5/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/bin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/lib/python3.9/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/lib/python3.9/site-packages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/lib/python3.9/site-packages/django/bin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/lib/python3.9/site-packages/django/conf/project_template/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/lib/python3.9/site-packages/pkg_resources/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/lib/python3.9/site-packages/pkg_resources/tests/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/lib/python3.9/site-packages/pkg_resources/tests/data/my-test-package-source/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Laboratorium_ISI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Laboratorium_ISI.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -41,9 +46,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Zadanie.executor": "Run",
+    "Python.Zadanie1.executor": "Run",
     "Python.Zadanie2.executor": "Run",
     "Python.Zadanie3.executor": "Run",
     "Python.Zadanie4.executor": "Run",
+    "Python.Zadanie5.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -55,6 +63,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Lab5" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Zadanie1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Laboratorium_ISI" />
@@ -84,6 +97,7 @@
     <attachedChunks>
       <set>
         <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
@@ -105,15 +119,53 @@
       <option name="project" value="LOCAL" />
       <updated>1709715356243</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lab2_V2">
+      <option name="closed" value="true" />
+      <created>1710900100439</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710900100439</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lab3">
+      <option name="closed" value="true" />
+      <created>1711517208393</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711517208393</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lab4">
+      <option name="closed" value="true" />
+      <created>1713270202515</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713270202515</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab1" />
+    <MESSAGE value="Lab2_V2" />
+    <MESSAGE value="Lab3" />
+    <MESSAGE value="Lab4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Laboratorium_ISI$Zadanie3.coverage" NAME="Zadanie3 Coverage Results" MODIFIED="1710320268060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab2" />
