@@ -4,21 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a7cb4a6-b569-4598-b1af-1ccd7e8b03fd" name="Changes" comment="Lab4">
-      <change afterPath="$PROJECT_DIR$/Lab5/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/bin/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/lib/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/lib/python3.9/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/lib/python3.9/site-packages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/lib/python3.9/site-packages/django/bin/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/lib/python3.9/site-packages/django/conf/project_template/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/lib/python3.9/site-packages/pkg_resources/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/lib/python3.9/site-packages/pkg_resources/tests/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab5/myvenv/lib/python3.9/site-packages/pkg_resources/tests/data/my-test-package-source/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Laboratorium_ISI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Laboratorium_ISI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0a7cb4a6-b569-4598-b1af-1ccd7e8b03fd" name="Changes" comment="Lab5">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab3/Zadanie3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab3/Zadanie3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713270202515</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lab5">
+      <option name="closed" value="true" />
+      <created>1713289067451</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713289067451</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,7 +151,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -165,7 +174,8 @@
     <MESSAGE value="Lab2_V2" />
     <MESSAGE value="Lab3" />
     <MESSAGE value="Lab4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab4" />
+    <MESSAGE value="Lab5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab5" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Laboratorium_ISI$Zadanie3.coverage" NAME="Zadanie3 Coverage Results" MODIFIED="1710320268060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab2" />
